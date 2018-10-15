@@ -30,7 +30,7 @@ Once you have completed these steps, you are ready to start contributing
 by checking our `Help Wanted` issues and creating [pull requests](https://github.com/Hacktoberfest-2018/Hello-world/pulls).
 
 ### 5. Give this Project a Star :star:
-
+n
 If you liked working on this project, please share this project as much 
 as you can and star this project to help as many people in opensource as you can.
 
